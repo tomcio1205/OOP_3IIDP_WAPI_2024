@@ -30,3 +30,4 @@ C:\Users\trajzer\Downloads\wwww\OOP_3IIDP_WAPI_2024\WebAPI\obj\Debug\net8.0\refi
 C:\Users\trajzer\Downloads\wwww\OOP_3IIDP_WAPI_2024\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\trajzer\Downloads\wwww\OOP_3IIDP_WAPI_2024\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\trajzer\Downloads\wwww\OOP_3IIDP_WAPI_2024\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\trajzer\Downloads\wwww\OOP_3IIDP_WAPI_2024\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
