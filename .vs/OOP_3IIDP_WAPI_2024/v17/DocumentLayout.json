@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\migrations\\20250109132519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20250109132519_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|c:\\users\\trajzer\\documents\\oop_3iidp_wapi_2024\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B01936F6-8D8F-4BED-89FB-D0686DB1B550}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:34:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250109132519_Init.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Migrations\\20250109132519_Init.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20250109132519_Init.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Migrations\\20250109132519_Init.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20250109132519_Init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:25:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T13:18:52.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\ApiContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\ApiContext.cs",
+              "RelativeToolTip": "WebAPI\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:17:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:42:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IIDP_WAPI_2024\\WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:42:09.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

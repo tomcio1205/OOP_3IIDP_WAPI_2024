@@ -12,10 +12,12 @@ namespace WebAPI.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ApiContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, ApiContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         [HttpGet]
@@ -29,6 +31,30 @@ namespace WebAPI.Controllers
             })
             .ToArray();
         }
+
+
+        [HttpGet]
+        public IEnumerable<WeatherForecast> GetAllFromDB()
+        {
+            return _context.WeatherForecasts.ToList();
+        }
+
+        [HttpPost]
+        public WeatherForecast AddForecastToDB(WeatherForecast forecast)
+        {
+            var result = _context.WeatherForecasts.Add(forecast);
+            _context.SaveChanges();
+            return result.Entity;
+        }
+
+        [HttpPut]
+        public WeatherForecast UpdateForecastFromDB(WeatherForecast forecast)
+        {
+            var result = _context.WeatherForecasts.Update(forecast);
+            _context.SaveChanges();
+            return result.Entity;
+        }
+
 
         [HttpPost("Quot")]
         public double Quot(int x, int y)
